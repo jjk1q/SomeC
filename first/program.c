@@ -19,8 +19,7 @@ int main(){
 void swap(int *a, int *b){
 	int c = *a;
 	*a = *b;
-	*b = c;
-	
+	*b = c;git reset --soft HEAD~1
 }
 
 
